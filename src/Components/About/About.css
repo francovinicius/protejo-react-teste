@@ -3,33 +3,3 @@
     width: 90%;
     margin: 1rem 0;
 }
-
-.p-apresentacao-txt {
-
-    display: flex;
-    width: 90%;
-    margin-top: -4rem;
-    
-}
-
-.sobre-escondido {
-
-    width: 95%;
-    margin: 3rem 0;
-    
-}
-
-.ler-mais{
-    position: absolute;
-    left:  -100000vw;
-}
-
-.ler-mais-ativo {
-    position: inherit;
-    left: 0;
-}
-
-.btn-ler-mais-inativo {
-    position: absolute;
-    left:  -1000000vw;
-}
